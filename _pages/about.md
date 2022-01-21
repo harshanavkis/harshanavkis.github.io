@@ -13,6 +13,5 @@ I am a PhD student at the Technical University of Munich, supervised by [Prof. P
 Publications
 ====
 
-__Rkt-io: a direct I/O stack for shielded execution__. EuroSys '21 [[pdf](./files/rkt-io-eurosys-21.pdf)]
-
+__Rkt-io: a direct I/O stack for shielded execution__. EuroSys '21 [[pdf](./files/rkt-io-eurosys-21.pdf)]  
 Jörg Thalheim, Harshavardhan Unnibhavi, Christian Priebe, Pramod Bhatotia, and Peter Pietzuch.  
