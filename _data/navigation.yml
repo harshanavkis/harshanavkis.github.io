@@ -16,7 +16,7 @@ main:
 #     url: /year-archive/
     
   - title: "CV"
-    url: ./files/hvub-cv.pdf
+    url: ./files/hvub_cv.pdf
     
 #   - title: "Guide"
 #     url: /markdown/
