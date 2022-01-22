@@ -1,12 +1,13 @@
 ---
-permalink: /teaching
+layout: archive
 title: "Teaching"
-excerpt: "Teaching"
+permalink: /teaching/
 author_profile: true
-redirect_from: 
-  - /teaching/
-  - /teaching.html
+redirect_from:
+  - /teaching
 ---
+
+{% include base_path %}
 
 Teaching
 =====
