@@ -13,10 +13,10 @@ I am a PhD student at the Technical University of Munich, supervised by [Prof. P
 Publications
 ====
 
-__Secure and Policy-Compliant Query Processing on Heterogeneous Computational Storage Architectures__. SIGMOD '22 (To appear)  
+__Secure and Policy-Compliant Query Processing on Heterogeneous Computational Storage Architectures__. SIGMOD '22 [[pdf](./files/sigmod_2022_ironsafe-camera-ready-version.pdf)]  
 **Harshavardhan Unnibhavi**, David Cerdeira, Antonio Barbalace, Nuno Santos and Pramod Bhatotia.
 
-__VMSH: Hypervisor-agnostic Guest Overlays for VMs__. EuroSys '22 (To appear)  
+__VMSH: Hypervisor-agnostic Guest Overlays for VMs__. EuroSys '22 [[pdf](./files/vmsh_eurosys22.pdf)]   
 Jörg Thalheim, Peter Okelmann, **Harshavardhan Unnibhavi**, Redha Gouicem and Pramod Bhatotia. 
 
 __Rkt-io: a direct I/O stack for shielded execution__. EuroSys '21 [[pdf](./files/rkt-io-eurosys-21.pdf)]  
