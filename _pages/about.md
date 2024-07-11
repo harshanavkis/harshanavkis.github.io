@@ -13,6 +13,9 @@ I am a PhD student at the Technical University of Munich, supervised by [Prof. P
 Publications
 ====
 
+__ vFPIO: A Virtual I/O Abstraction for FPGA-accelerated I/O Devices.__. ATC '24 [[pdf](../files/vFPIO_ATC_24_camera_ready.pdf)][[code]()][[Presentation]()]  
+Jiyang Chen, **Harshavardhan Unnibhavi**, Atsushi Koshiba, Pramod Bhatotia.
+
 __Secure and Policy-Compliant Query Processing on Heterogeneous Computational Storage Architectures__. SIGMOD '22 [[pdf](../files/sigmod_2022_ironsafe-camera-ready-version.pdf)][[code](https://github.com/harshanavkis/ironsafe)][[Presentation](../files/sigmod-22-talk-ironsafe.pdf)]  
 **Harshavardhan Unnibhavi**, David Cerdeira, Antonio Barbalace, Nuno Santos and Pramod Bhatotia.
 
