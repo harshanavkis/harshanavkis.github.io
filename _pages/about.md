@@ -12,7 +12,7 @@ redirect_from:
 I am a PhD student at the Technical University of Munich, supervised by [Prof. Pramod Bhatotia](https://dse.in.tum.de/bhatotia/) at the [Systems Research Group](https://dse.in.tum.de/).
 I am interested in systems research with a particular focus on confidential computing, operating systems, and emerging hardware architectures. The central theme of my current work is to employ a hardware-software co-design approach to ensure high performance, security, and reliability.
 
-Currently, I am interning at Intel Labs advised by [Dmitrii Kuvaiskii](https://dimakuv.github.io/) and [Mona Vij](https://www.intel.com/content/www/us/en/research/researchers/mona-vij.html), where I am exploring confidential computing support for hardware accelerators in disaggregated architectures.
+In the past, I have interned at Intel Labs, advised by [Dmitrii Kuvaiskii](https://dimakuv.github.io/) and [Mona Vij](https://www.intel.com/content/www/us/en/research/researchers/mona-vij.html), where I explored confidential computing support for hardware accelerators in disaggregated architectures.
 
 Publications
 ====
