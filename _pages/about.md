@@ -19,6 +19,16 @@ I have also interned at Intel Labs with [Dmitrii Kuvaiskii](https://dimakuv.gith
 Publications
 ====
 
+μShell: A Microkernel-based FPGA Shell Architecture.
+_Jiyang Chen, Anubhav Panda, <ins>Harshavardhan Unnibhavi</ins>, Atsushi Koshiba, Pramod Bhatotia._  
+__USENIX OSDI '26__  
+[[Paper]()][[Code]()][[Presentation]()]
+
+GDPRuler: A Trusted GDPR Monitor for Cloud Data Systems.  
+_Dimitrios Stavrakakis, Masanori Misono, Julian Pritzi, <ins>Harshavardhan Unnibhavi</ins>, Nuno Santos, Pramod Bhatotia._  
+__ACM CCS '26__  
+[[Paper]()][[Code]()][[Presentation]()]
+
 vFPIO: A Virtual I/O Abstraction for FPGA-accelerated I/O Devices.  
 _Jiyang Chen, <ins>Harshavardhan Unnibhavi</ins>, Atsushi Koshiba, Pramod Bhatotia._  
 __USENIX ATC '24__  
