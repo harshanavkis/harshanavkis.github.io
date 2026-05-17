@@ -18,7 +18,7 @@ Previously, I interned at Google in the host networking team during summer 2025.
 Publications
 ====
 
-μShell: A Microkernel-based FPGA Shell Architecture.
+μShell: A Microkernel-based FPGA Shell Architecture.    
 _Jiyang Chen, Anubhav Panda, <ins>Harshavardhan Unnibhavi</ins>, Atsushi Koshiba, Pramod Bhatotia._  
 __USENIX OSDI '26__  
 [[Paper]()][[Code]()][[Presentation]()]
