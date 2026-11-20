@@ -11,14 +11,26 @@ redirect_from:
 
 I am a PhD student at the Technical University of Munich, advised by [Prof. Pramod Bhatotia](https://dse.in.tum.de/bhatotia/) at the [Systems Research Group](https://dse.in.tum.de/). My research focuses on confidential computing, operating systems, and emerging hardware architectures. The central theme of my work is employing a hardware-software co-design approach to ensure high performance, security, and reliability.
 
-Previously, I worked as a Student Researcher and a Software Engineering Intern at Google in the [host networking team](https://research.google/teams/network-infrastructure/). I have also interned at Intel Labs with [Dmitrii Kuvaiskii](https://dimakuv.github.io/) and [Mona Vij](https://www.intel.com/content/www/us/en/research/researchers/mona-vij.html), exploring confidential computing support for hardware accelerators in disaggregated architectures.
+Work Experience
+===
+
+**2026** &emsp; **Google**, Student Researcher, Remote.
+* Mentors: Dr. Behnam Montazeri, Dr. Arjun Singhvi
+* Part of the [host networking team](https://research.google/teams/network-infrastructure/).
+
+**2025** &emsp; **Google**, Software Engineering Intern, Sunnyvale, USA.
+* Mentors: Dr. Behnam Montazeri, Dr. Arjun Singhvi
+* Part of the [host networking team](https://research.google/teams/network-infrastructure/).
+
+**2024** &emsp; **Intel Labs**, Research Intern, Munich, Germany.
+* Mentors: Dr. Dmitrii Kuvaiskii, Mona Vij
 
 Publications
 ====
 
 IronBus: A Decentralized Trusted Bus for Accelerators - A HW-SW Co-Designed Trusted Acceleration Interface    
 _<ins>Harshavardhan Unnibhavi</ins>, Julian Pritzi, Atsushi Koshiba, Nuno Santos, Pramod Bhatotia._  
-__ACM TACO__  
+__ACM TACO '26__  
 [[Paper]()][[Code]()][[Presentation]()]
 
 
