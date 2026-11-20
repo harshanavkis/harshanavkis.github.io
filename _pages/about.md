@@ -14,16 +14,16 @@ I am a PhD student at the Technical University of Munich, advised by [Prof. Pram
 Work Experience
 ===
 
-**2026** &emsp; **Google**, Student Researcher, Remote.
-* Mentors: Dr. Behnam Montazeri, Dr. Arjun Singhvi
+**2026** &emsp; **Google**, Student Researcher, Remote.<br>
+• Mentors: Dr. Behnam Montazeri, Dr. Arjun Singhvi<br>
+• Part of the [host networking team](https://research.google/teams/network-infrastructure/).
+
+**2025** &emsp; **Google**, Software Engineering Intern, Sunnyvale, USA.<br>
+* Mentors: Dr. Behnam Montazeri, Dr. Arjun Singhvi<br>
 * Part of the [host networking team](https://research.google/teams/network-infrastructure/).
 
-**2025** &emsp; **Google**, Software Engineering Intern, Sunnyvale, USA.
-* Mentors: Dr. Behnam Montazeri, Dr. Arjun Singhvi
-* Part of the [host networking team](https://research.google/teams/network-infrastructure/).
-
-**2024** &emsp; **Intel Labs**, Research Intern, Munich, Germany.
-* Mentors: Dr. Dmitrii Kuvaiskii, Mona Vij
+**2024** &emsp; **Intel Labs**, Research Intern, Munich, Germany.<br>
+* Mentors: Dr. Dmitrii Kuvaiskii, Mona Vij<br>
 
 Publications
 ====
