@@ -42,7 +42,7 @@ __USENIX OSDI '26__
 GDPRuler: A Trusted GDPR Monitor for Cloud Data Systems.  
 _Dimitrios Stavrakakis, Masanori Misono, Julian Pritzi, <ins>Harshavardhan Unnibhavi</ins>, Nuno Santos, Pramod Bhatotia._  
 __ACM CCS '26__  
-[[Paper](../files/gdpruler_ccs26-paper.pdf)][[Code](https://github.com/dimstav23/GDPRuler)][[Presentation]()]
+[[Paper](../files/gdpruler_ccs26-paper.pdf)][[Code](https://github.com/dimstav23/GDPRuler)][[Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRx3Yehrvh3BVBVpqoG_n4kNYzn5EQOEA27Sbf1f5j248y6Ry2woPilfYJ603es5HFcpZ7yaBtxOjDa/pub?start=true&loop=false&delayms=60000#slide=id.h2629856f3e5cbb5a_0_8)]
 
 vFPIO: A Virtual I/O Abstraction for FPGA-accelerated I/O Devices.  
 _Jiyang Chen, <ins>Harshavardhan Unnibhavi</ins>, Atsushi Koshiba, Pramod Bhatotia._  
