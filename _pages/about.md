@@ -31,18 +31,18 @@ Publications
 IronBus: A Decentralized Trusted Bus for Accelerators - A HW-SW Co-Designed Trusted Acceleration Interface    
 _<ins>Harshavardhan Unnibhavi</ins>, Julian Pritzi, Atsushi Koshiba, Nuno Santos, Pramod Bhatotia._  
 __ACM TACO '26__  
-[[Paper]()][[Code]()][[Presentation]()]
+[[Paper](../files/ironbus_taco_paper.pdf)][[Code](https://github.com/TUM-DSE/ironbus-artifact)][[Presentation]()]
 
 
 μShell: A Microkernel-based FPGA Shell Architecture.    
 _Jiyang Chen, Anubhav Panda, <ins>Harshavardhan Unnibhavi</ins>, Atsushi Koshiba, Pramod Bhatotia._  
 __USENIX OSDI '26__  
-[[Paper]()][[Code]()][[Presentation]()]
+[[Paper](../files/ushell-osdi-paper.pdf)][[Code](https://github.com/TUM-DSE/microShell)][[Presentation](../files/ushell-osdi-slides.pdf)]
 
 GDPRuler: A Trusted GDPR Monitor for Cloud Data Systems.  
 _Dimitrios Stavrakakis, Masanori Misono, Julian Pritzi, <ins>Harshavardhan Unnibhavi</ins>, Nuno Santos, Pramod Bhatotia._  
 __ACM CCS '26__  
-[[Paper]()][[Code]()][[Presentation]()]
+[[Paper](../files/gdpruler_ccs26-paper.pdf)][[Code](https://github.com/dimstav23/GDPRuler)][[Presentation]()]
 
 vFPIO: A Virtual I/O Abstraction for FPGA-accelerated I/O Devices.  
 _Jiyang Chen, <ins>Harshavardhan Unnibhavi</ins>, Atsushi Koshiba, Pramod Bhatotia._  
