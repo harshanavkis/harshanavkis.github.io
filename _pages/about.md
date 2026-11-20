@@ -11,12 +11,16 @@ redirect_from:
 
 I am a PhD student at the Technical University of Munich, advised by [Prof. Pramod Bhatotia](https://dse.in.tum.de/bhatotia/) at the [Systems Research Group](https://dse.in.tum.de/). My research focuses on confidential computing, operating systems, and emerging hardware architectures. The central theme of my work is employing a hardware-software co-design approach to ensure high performance, security, and reliability.
 
-I also work as a Student Researcher at Google in the [host networking team](https://research.google/teams/network-infrastructure/).
-
-Previously, I interned at Google in the host networking team during summer 2025. I have also interned at Intel Labs with [Dmitrii Kuvaiskii](https://dimakuv.github.io/) and [Mona Vij](https://www.intel.com/content/www/us/en/research/researchers/mona-vij.html), exploring confidential computing support for hardware accelerators in disaggregated architectures.
+Previously, I worked as a Student Researcher and a Software Engineering Intern at Google in the [host networking team](https://research.google/teams/network-infrastructure/). I have also interned at Intel Labs with [Dmitrii Kuvaiskii](https://dimakuv.github.io/) and [Mona Vij](https://www.intel.com/content/www/us/en/research/researchers/mona-vij.html), exploring confidential computing support for hardware accelerators in disaggregated architectures.
 
 Publications
 ====
+
+IronBus: A Decentralized Trusted Bus for Accelerators - A HW-SW Co-Designed Trusted Acceleration Interface    
+_<ins>Harshavardhan Unnibhavi</ins>, Julian Pritzi, Atsushi Koshiba, Nuno Santos, Pramod Bhatotia._  
+__ACM TACO__  
+[[Paper]()][[Code]()][[Presentation]()]
+
 
 μShell: A Microkernel-based FPGA Shell Architecture.    
 _Jiyang Chen, Anubhav Panda, <ins>Harshavardhan Unnibhavi</ins>, Atsushi Koshiba, Pramod Bhatotia._  
