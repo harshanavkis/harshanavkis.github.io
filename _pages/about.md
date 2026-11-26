@@ -30,7 +30,7 @@ Publications
 
 IronBus: A Decentralized Trusted Bus for Accelerators - A HW-SW Co-Designed Trusted Acceleration Interface    
 _<ins>Harshavardhan Unnibhavi</ins>, Julian Pritzi, Atsushi Koshiba, Nuno Santos, Pramod Bhatotia._  
-__ACM TACO '26 / HiPEAC 2027__  
+__ACM TACO '26 / HiPEAC '27__  
 [[Paper](../files/ironbus_taco_paper.pdf)][[Code](https://github.com/TUM-DSE/ironbus-artifact)][[Presentation]()]
 
 
